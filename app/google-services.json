@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476568851442",
+    "project_id": "certnotesapp",
+    "storage_bucket": "certnotesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476568851442:android:d0a468f995ac5188fad16b",
+        "android_client_info": {
+          "package_name": "com.example.certnotesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClCYL-pCxe1AlL3Lv4fDnasewwIk9sQo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
